@@ -90,7 +90,7 @@ html_content = """
   <section class="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:abrishtechhub@gmail.com">abrishtechhub@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/Abrishtechhub" target="_blank">github.com/abrishtucho</a></p>
+    <p>GitHub: <a href="https://github.com/Abrishtechhub" target="_blank">github.com/Abrishtechhub</a></p>
     <p>Telegram: <a href="https://t.me/AbrishTechhub" target="_blank">@abrishtechhub</a></p>
   </section>
 
