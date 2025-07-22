@@ -91,7 +91,7 @@ html_content = """
     <h2>Contact</h2>
     <p>Email: <a href="mailto:abrishtechhub@gmail.com">abrishtechhub@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/abrishtucho" target="_blank">github.com/abrishtucho</a></p>
-    <p>Telegram: <a href="https://t.me/TheDivinelyLife" target="_blank">@TheDivinelyLife</a></p>
+    <p>Telegram: <a href="https://t.me/AbrishTechhub" target="_blank">@abrishtechhub</a></p>
   </section>
 
   <footer>
